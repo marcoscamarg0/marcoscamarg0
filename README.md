@@ -14,7 +14,7 @@
 ✨ Creating bugs since I wrote my first <code>alert('Hello world!')</code><br>
 📚 I'm currently learning more about mobile development and QA☁️<br>
 🎯 Goals: Build impactful apps and grow as a front-end dev<br>
-🎲 Fun fact: I love animations and kart racing 🏎️
+🎲 Fun fact: I love animations  🏎️
 </p>
 
 ###
